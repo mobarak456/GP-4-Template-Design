@@ -1,0 +1,85 @@
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+    .portfulio-item-nav{
+        margin-bottom: 30px !important;
+    }
+    .portfulio-item-nav button{
+        margin: 10px ;
+    }
+    .banner-header h1{
+        font-size: 25px !important;
+    }
+    .banner-header h4{
+        font-size: 15px !important;
+    }
+    
+ }
+ @media (max-width: 576px){}
+@media (max-width: 768px) { 
+    .carousel_img{
+        padding-top: 30px;
+    }
+    .about-header-1{
+        padding: 20px 0;
+    }
+    .feature-0{
+        margin-top: 30px;
+    }
+    .services-title-02{
+        margin: 20px 10px;
+    }
+    .card-inon{
+        padding-top: 35px;
+    }
+    .services-title-01{
+        padding: 20px 0;
+    }
+    .Voluptatem_title-0{
+        padding: 20px 0;
+    }
+    .Voluptatem_title-0 h1{
+        font-size: 20px;
+    }
+    
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .dark-overlay-01 {
+        padding: 135px 0px;
+    }
+    .feature-0{
+        margin-top: 30px;
+    }
+    .services-title-02{
+        margin: 20px 10px;
+    }
+    .card-inon{
+        padding-top: 35px;
+    }
+    .services-title-01{
+        padding: 20px 0;
+    }
+    .Voluptatem_title-0{
+        padding: 20px 0;
+    }
+    .Voluptatem_title-0 h1{
+        font-size: 25px;
+    }
+ }
+@media (max-width: 768px) { 
+    #hero{
+        height: 1100px !important;
+        /* padding: 60px 0 !important; */
+        /* overflow: hidden !important; */
+    }
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  }
